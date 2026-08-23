@@ -8,9 +8,9 @@
 </head>
 <body>
 	<header class="site-header">
-		<a class="logo" href="home%20page">gap<span>.</span></a>
+		<a class="logo" href="index.html">gap<span>.</span></a>
 		<nav class="nav" aria-label="Main navigation">
-			<a class="active" href="home%20page">Home</a>
+			<a class="active" href="index.html">Home</a>
 			<a href="about.html">About</a>
 			<a href="services.html">Services</a>
 			<a href="portfolio.html">Portfolio</a>
